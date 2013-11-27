@@ -5,7 +5,8 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "lennart/browser-buffer": "*"
+    "lennart/browser-buffer": "*",
+    "ariya/esprima": "*"
   },
   "development": {},
   "license": "MIT",
